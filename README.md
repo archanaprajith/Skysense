@@ -28,14 +28,8 @@ Our platform utilizes Artificial Intelligence architecture to transform raw, obj
 
 ## Screenshots 
 
-![SkySense Main Dashboard](./assets/screenshot1.png)  
-![Weather Data Retrieval](./assets/screenshot2.png)
-![Smart Advice Generation](./assets/screenshot3.png)
-
----
-
-## Demo Video
-[Watch Demo](#) *(Insert standard Google Drive Link here when uploaded)*
+![SkySense Search Interface](./assets/search_interface.png)
+![SkySense Weather Results](./assets/weather_results.png)
 
 ---
 
