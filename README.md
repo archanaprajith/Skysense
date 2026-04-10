@@ -1,1 +1,0 @@
-# Skysense-app
