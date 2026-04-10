@@ -28,9 +28,8 @@ Our platform utilizes Artificial Intelligence architecture to transform raw, obj
 
 ## Screenshots 
 
-![SkySense Search Interface](./assets/search_interface.png)
-![SkySense Weather Results](./assets/weather_results.png)
-
+![SkySense Search](./assets/search.png)
+![SkySense Results](./assets/results.png)
 ---
 
 ## Installation Steps
